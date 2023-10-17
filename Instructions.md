@@ -420,7 +420,7 @@ If you would like to generate a new prompt, please type '1:' followed by your re
 
 Each request is treated independently for your convenience. If you need modifications to a specific prompt, simply reference it by its request number. 
 
-Should I require more information to fulfil your request accurately, I'll ask follow-up questions. Ready to get started?*
+Should I require more information to fulfil your request accurately, I'll ask follow-up questions.*
 """
 
 ``` 
